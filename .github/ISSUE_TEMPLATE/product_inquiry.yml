@@ -1,0 +1,46 @@
+name: Product inquiry
+description: Opt in to be contacted about an AI Growth Ops product.
+title: "Product inquiry: "
+labels:
+  - inbound-lead
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this only to request follow-up. This is not payment authorization, invoice consent, or charge authorization.
+  - type: input
+    id: email
+    attributes:
+      label: Email
+      description: Email address for follow-up.
+      placeholder: buyer@example.com
+    validations:
+      required: true
+  - type: input
+    id: business
+    attributes:
+      label: Business
+      description: Business or public profile name.
+    validations:
+      required: true
+  - type: input
+    id: product
+    attributes:
+      label: Product
+      description: Product or service you are asking about.
+    validations:
+      required: true
+  - type: textarea
+    id: growth_problem
+    attributes:
+      label: Growth problem
+      description: What do you want help with?
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent
+      options:
+        - label: I opt in to be contacted about this product. This is not payment authorization.
+          required: true
