@@ -1,10 +1,10 @@
 {
-  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=photographers_missed_lead_followup_kit",
-  "name": "Missed Lead Follow-Up Kit for Photographers",
+  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=event_service_providers_weekly_owner_dashboard_kit",
+  "name": "Weekly Owner Dashboard Kit for Event Service Providers",
   "payment_url": null,
   "price_usd": 29,
-  "product_id": "photographers_missed_lead_followup_kit",
-  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/photographers-missed-lead-followup-kit/",
+  "product_id": "event_service_providers_weekly_owner_dashboard_kit",
+  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/event-service-providers-weekly-owner-dashboard-kit/",
   "schema_version": "active_product_reference_v1",
-  "updated_at": "2026-05-04T13:00:03.430054Z"
+  "updated_at": "2026-05-04T13:01:52.925810Z"
 }
