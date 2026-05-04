@@ -1,0 +1,67 @@
+{
+  "channel_rules": [
+    "Use only free channels.",
+    "Do not post where self-promotion is disallowed.",
+    "Do not send cold bulk messages.",
+    "Do not make guaranteed revenue claims.",
+    "Do not imply a payment, invoice, or charge is authorized by a lead inquiry."
+  ],
+  "content_assets": [
+    {
+      "asset_id": "short_public_post",
+      "intended_channels": [
+        "public profile",
+        "small business community",
+        "static page update"
+      ],
+      "text": "I am opening one pilot slot for a $500/month AI Growth Ops Service for small service businesses. It includes a growth audit, four-week content plan, lead follow-up workflow, weekly report, and support/revision queue. Best fit: solo operators or small service teams with an existing offer who need follow-up, content, and reporting handled more consistently. Reply with: name, email, business, website/profile, current offer, growth problem, consent to be contacted, and the sentence 'This is not payment authorization.'"
+    },
+    {
+      "asset_id": "community_helpful_post",
+      "intended_channels": [
+        "communities that allow service offers"
+      ],
+      "text": "Small service operators: I am testing a productized AI Growth Ops package. The goal is simple: turn your existing offer and context into a growth audit, four-week content plan, follow-up workflow, and weekly reporting rhythm. No revenue guarantees and no ad spend. If you want details, Reply with: name, email, business, website/profile, current offer, growth problem, consent to be contacted, and the sentence 'This is not payment authorization.'"
+    },
+    {
+      "asset_id": "profile_blurb",
+      "intended_channels": [
+        "profile bio",
+        "about page",
+        "pinned post"
+      ],
+      "text": "AI Growth Ops Service: $500/month growth audit, content plan, lead follow-up workflow, weekly report, and support queue for small service businesses. Inquiries welcome from operators with an existing offer."
+    }
+  ],
+  "external_effect": false,
+  "generated_at": "2026-05-04T02:56:16.943476Z",
+  "lead_reply_format": [
+    "lead_name",
+    "lead_email",
+    "business_name",
+    "website_or_public_profile",
+    "current_offer",
+    "growth_problem",
+    "inquiry_text",
+    "recorded_at",
+    "source_reference",
+    "consent_to_contact",
+    "not_payment_authorization"
+  ],
+  "monthly_price_usd": 500,
+  "offer_id": "ai_growth_ops_service_monthly_500",
+  "rejection_reasons": [
+    "fake_or_test_lead_without_real_contact_path",
+    "vague_or_missing_business_need",
+    "malicious_prompt_or_instruction_override",
+    "payment_ambiguous_or_payment_authorization_language",
+    "no_consent_to_contact",
+    "paid_acquisition_source",
+    "missing_public_business_reference"
+  ],
+  "run_id": "20260504T020728Z",
+  "schema_version": "zero_budget_acquisition_content_packet_v1",
+  "status": "zero_budget_acquisition_content_ready",
+  "target_customer": "Small service businesses and solo operators with an existing offer who need better follow-up, content, and reporting.",
+  "verified": true
+}
