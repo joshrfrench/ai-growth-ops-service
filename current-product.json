@@ -1,10 +1,10 @@
 {
-  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=cleaning_businesses_booking_page_fix_kit",
-  "name": "Booking Page Fix Kit for Cleaning Businesses",
+  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=event_service_providers_booking_page_fix_kit",
+  "name": "Booking Page Fix Kit for Event Service Providers",
   "payment_url": null,
   "price_usd": 39,
-  "product_id": "cleaning_businesses_booking_page_fix_kit",
-  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/cleaning-businesses-booking-page-fix-kit/",
+  "product_id": "event_service_providers_booking_page_fix_kit",
+  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/event-service-providers-booking-page-fix-kit/",
   "schema_version": "active_product_reference_v1",
-  "updated_at": "2026-05-04T19:32:18.732105Z"
+  "updated_at": "2026-05-04T20:02:09.833500Z"
 }
