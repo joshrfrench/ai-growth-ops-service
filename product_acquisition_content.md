@@ -2,11 +2,11 @@
 
 ## Short Public Post
 
-I am testing a $29 Lead Follow-Up Email Kit for small service businesses. It is designed for operators who want downloadable reply templates for new leads, no-shows, pricing objections, stale leads, and follow-ups. Details: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/event-service-providers-missed-lead-followup-kit/. Reply only if you opt in, and include: This is not payment authorization.
+I am testing a $29 Lead Follow-Up Email Kit for small service businesses. It is designed for operators who want downloadable reply templates for new leads, no-shows, pricing objections, stale leads, and follow-ups. Details: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-weekly-owner-dashboard-kit/. Reply only if you opt in, and include: This is not payment authorization.
 
 ## Profile Blurb
 
-Lead Follow-Up Email Kit: $29 AI Growth Ops product for small service businesses. https://joshrfrench.github.io/ai-growth-ops-service/generated-products/event-service-providers-missed-lead-followup-kit/
+Lead Follow-Up Email Kit: $29 AI Growth Ops product for small service businesses. https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-weekly-owner-dashboard-kit/
 
 ## Must Not Include
 
