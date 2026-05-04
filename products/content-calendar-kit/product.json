@@ -1,0 +1,43 @@
+{
+  "allowed_now": true,
+  "autonomy_fit": 94,
+  "base_score": 88.88,
+  "compliance_risk": 18,
+  "deliverables": [
+    "four-week content calendar",
+    "post prompt library",
+    "CTA and offer-angle worksheet",
+    "weekly review checklist"
+  ],
+  "evidence_adjustment": 11.0,
+  "evidence_strength": 58,
+  "fulfillment_mode": "instant_digital_delivery_after_payment_evidence",
+  "fulfillment_reliability": 95,
+  "ladder_stage": 1,
+  "margin": 94,
+  "name": "Four-Week Content Calendar Kit",
+  "price_usd": 39,
+  "product_family": "ai_growth_ops_templates",
+  "product_id": "content_calendar_kit",
+  "product_score": 100,
+  "product_type": "digital_template",
+  "refund_risk": 24,
+  "sales_friction": 24,
+  "score_components": {
+    "autonomy_fit": 94,
+    "compliance_risk_adjustment": 82,
+    "evidence_strength": 58,
+    "fulfillment_reliability": 95,
+    "margin": 94,
+    "refund_risk_adjustment": 76,
+    "sales_friction_adjustment": 76,
+    "time_to_publish": 94,
+    "zero_budget_fit": 98
+  },
+  "selection_rationale": "Selected candidate score 100; digital template products are easiest to publish, fulfill, and test while lead and revenue evidence are still zero.",
+  "strategy_fit_adjustment": 3.68,
+  "summary": "Downloadable content planning system for one month of service-business posts and calls to action.",
+  "target_customer": "Operators with an existing offer who need a simple content rhythm without hiring an agency.",
+  "time_to_publish": 94,
+  "zero_budget_fit": 98
+}

@@ -1,0 +1,43 @@
+{
+  "allowed_now": true,
+  "autonomy_fit": 86,
+  "base_score": 79.85,
+  "compliance_risk": 28,
+  "deliverables": [
+    "growth bottleneck summary",
+    "offer and follow-up audit",
+    "four-week action plan",
+    "recommended metrics and reporting cadence"
+  ],
+  "evidence_adjustment": 0.0,
+  "evidence_strength": 64,
+  "fulfillment_mode": "generated_service_artifact_after_payment_or_commitment_evidence",
+  "fulfillment_reliability": 84,
+  "ladder_stage": 2,
+  "margin": 88,
+  "name": "One-Time AI Growth Audit",
+  "price_usd": 149,
+  "product_family": "ai_growth_ops_audits",
+  "product_id": "one_time_ai_growth_audit",
+  "product_score": 83.45,
+  "product_type": "productized_service",
+  "refund_risk": 34,
+  "sales_friction": 42,
+  "score_components": {
+    "autonomy_fit": 86,
+    "compliance_risk_adjustment": 72,
+    "evidence_strength": 64,
+    "fulfillment_reliability": 84,
+    "margin": 88,
+    "refund_risk_adjustment": 66,
+    "sales_friction_adjustment": 58,
+    "time_to_publish": 82,
+    "zero_budget_fit": 95
+  },
+  "selection_rationale": "Useful follow-on offer once template demand or qualified lead evidence appears.",
+  "strategy_fit_adjustment": 3.6,
+  "summary": "A one-time audit and action plan generated from the customer's offer, website, and growth problem.",
+  "target_customer": "Small service businesses that want personalized help before committing to a monthly service.",
+  "time_to_publish": 82,
+  "zero_budget_fit": 95
+}

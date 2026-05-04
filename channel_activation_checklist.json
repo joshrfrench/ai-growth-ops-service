@@ -1,7 +1,7 @@
 {
   "acquisition_asset_to_post": "public/ai-growth-ops/acquisition_content.md",
   "external_effect": false,
-  "generated_at": "2026-05-04T02:56:16.943661Z",
+  "generated_at": "2026-05-04T05:05:41.613604Z",
   "not_success_until": "production-status reports channel_inventory.live_channel_configured true after a real public URL or controlled free channel reference is configured outside the repo",
   "public_asset_to_publish": "public/ai-growth-ops/index.html",
   "required_external_reference_options": [
@@ -18,7 +18,7 @@
     "deployment_secret_would_enter_repo",
     "bulk_outreach_or_spam_risk"
   ],
-  "run_id": "20260504T020728Z",
+  "run_id": "20260504T050537Z",
   "schema_version": "zero_budget_channel_activation_checklist_v1",
   "status": "ready_for_public_channel_activation",
   "success_requires": [

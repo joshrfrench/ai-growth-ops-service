@@ -1,0 +1,43 @@
+{
+  "allowed_now": true,
+  "autonomy_fit": 97,
+  "base_score": 91.1,
+  "compliance_risk": 20,
+  "deliverables": [
+    "new lead reply templates",
+    "no-response follow-up sequence",
+    "pricing-objection response templates",
+    "support handoff templates"
+  ],
+  "evidence_adjustment": 11.0,
+  "evidence_strength": 60,
+  "fulfillment_mode": "instant_digital_delivery_after_payment_evidence",
+  "fulfillment_reliability": 97,
+  "ladder_stage": 1,
+  "margin": 95,
+  "name": "Lead Follow-Up Email Kit",
+  "price_usd": 29,
+  "product_family": "ai_growth_ops_templates",
+  "product_id": "lead_followup_email_kit",
+  "product_score": 100,
+  "product_type": "digital_template",
+  "refund_risk": 20,
+  "sales_friction": 18,
+  "score_components": {
+    "autonomy_fit": 97,
+    "compliance_risk_adjustment": 80,
+    "evidence_strength": 60,
+    "fulfillment_reliability": 97,
+    "margin": 95,
+    "refund_risk_adjustment": 80,
+    "sales_friction_adjustment": 82,
+    "time_to_publish": 98,
+    "zero_budget_fit": 98
+  },
+  "selection_rationale": "Selected candidate score 100; digital template products are easiest to publish, fulfill, and test while lead and revenue evidence are still zero.",
+  "strategy_fit_adjustment": 3.68,
+  "summary": "Downloadable reply templates for new leads, no-shows, pricing objections, stale leads, and follow-ups.",
+  "target_customer": "Small service businesses losing opportunities because leads are not followed up consistently.",
+  "time_to_publish": 98,
+  "zero_budget_fit": 98
+}
