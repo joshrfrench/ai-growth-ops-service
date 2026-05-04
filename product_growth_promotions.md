@@ -1,24 +1,24 @@
 # Product Growth Promotion Queue
 
-## Weekly Owner Dashboard Kit for Consultants And Coaches
+## Booking Page Fix Kit for Local Repair Shops
 
-Testing a $29 Weekly Owner Dashboard Kit for Consultants And Coaches for consultants and coaches. It helps with weekly owner dashboard using practical templates and checklists. Details: https://joshrfrench.github.io/ai-growth-ops-service/products/lead-followup-email-kit/. Reply only if you opt in and include: This is not payment authorization.
+Testing a $39 Booking Page Fix Kit for Local Repair Shops for local repair shops. It helps with booking page fix using practical templates and checklists. Details: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-weekly-owner-dashboard-kit/. Reply only if you opt in and include: This is not payment authorization.
 
-## Missed Lead Follow-Up Kit for Consultants And Coaches
+## Booking Page Fix Kit for Cleaning Businesses
 
-Testing a $29 Missed Lead Follow-Up Kit for Consultants And Coaches for consultants and coaches. It helps with missed lead follow-up using practical templates and checklists. Details: https://joshrfrench.github.io/ai-growth-ops-service/products/lead-followup-email-kit/. Reply only if you opt in and include: This is not payment authorization.
+Testing a $39 Booking Page Fix Kit for Cleaning Businesses for cleaning businesses. It helps with booking page fix using practical templates and checklists. Details: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-weekly-owner-dashboard-kit/. Reply only if you opt in and include: This is not payment authorization.
 
-## Weekly Owner Dashboard Kit for Wellness Studios
+## Booking Page Fix Kit for Event Service Providers
 
-Testing a $29 Weekly Owner Dashboard Kit for Wellness Studios for wellness studios. It helps with weekly owner dashboard using practical templates and checklists. Details: https://joshrfrench.github.io/ai-growth-ops-service/products/lead-followup-email-kit/. Reply only if you opt in and include: This is not payment authorization.
+Testing a $39 Booking Page Fix Kit for Event Service Providers for event service providers. It helps with booking page fix using practical templates and checklists. Details: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-weekly-owner-dashboard-kit/. Reply only if you opt in and include: This is not payment authorization.
 
-## Missed Lead Follow-Up Kit for Wellness Studios
+## Referral Ask Kit for Mobile Detailers
 
-Testing a $29 Missed Lead Follow-Up Kit for Wellness Studios for wellness studios. It helps with missed lead follow-up using practical templates and checklists. Details: https://joshrfrench.github.io/ai-growth-ops-service/products/lead-followup-email-kit/. Reply only if you opt in and include: This is not payment authorization.
+Testing a $49 Referral Ask Kit for Mobile Detailers for mobile detailers. It helps with referral ask using practical templates and checklists. Details: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-weekly-owner-dashboard-kit/. Reply only if you opt in and include: This is not payment authorization.
 
-## Quote Follow-Up Kit for Mobile Detailers
+## Booking Page Fix Kit for Home Service Operators
 
-Testing a $39 Quote Follow-Up Kit for Mobile Detailers for mobile detailers. It helps with quote follow-up using practical templates and checklists. Details: https://joshrfrench.github.io/ai-growth-ops-service/products/lead-followup-email-kit/. Reply only if you opt in and include: This is not payment authorization.
+Testing a $39 Booking Page Fix Kit for Home Service Operators for home service operators. It helps with booking page fix using practical templates and checklists. Details: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-weekly-owner-dashboard-kit/. Reply only if you opt in and include: This is not payment authorization.
 
 ## Must Not Include
 
