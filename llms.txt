@@ -1,8 +1,8 @@
 # AI Growth Ops Products
 
-Current product: Local Content Prompts Kit for Home Service Operators
+Current product: Booking Page Fix Kit for Local Repair Shops
 Price: $39
-Product URL: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-local-content-prompts-kit/
-Inquiry URL: https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=home_service_operators_local_content_prompts_kit
+Product URL: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-booking-page-fix-kit/
+Inquiry URL: https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=local_repair_shops_booking_page_fix_kit
 
 Constraints: no guaranteed revenue, no fake testimonials, no automatic charge, opt-in inquiries only.

@@ -1,10 +1,10 @@
 {
-  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=home_service_operators_local_content_prompts_kit",
-  "name": "Local Content Prompts Kit for Home Service Operators",
+  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=local_repair_shops_booking_page_fix_kit",
+  "name": "Booking Page Fix Kit for Local Repair Shops",
   "payment_url": null,
   "price_usd": 39,
-  "product_id": "home_service_operators_local_content_prompts_kit",
-  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-local-content-prompts-kit/",
+  "product_id": "local_repair_shops_booking_page_fix_kit",
+  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-booking-page-fix-kit/",
   "schema_version": "active_product_reference_v1",
-  "updated_at": "2026-05-04T18:32:43.881068Z"
+  "updated_at": "2026-05-04T19:02:45.991919Z"
 }
