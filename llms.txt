@@ -1,8 +1,8 @@
 # AI Growth Ops Products
 
-Current product: Missed Lead Follow-Up Kit for Wellness Studios
-Price: $29
-Product URL: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/wellness-studios-missed-lead-followup-kit/
-Inquiry URL: https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=wellness_studios_missed_lead_followup_kit
+Current product: Quote Follow-Up Kit for Mobile Detailers
+Price: $39
+Product URL: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/mobile-detailers-quote-followup-kit/
+Inquiry URL: https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=mobile_detailers_quote_followup_kit
 
 Constraints: no guaranteed revenue, no fake testimonials, no automatic charge, opt-in inquiries only.

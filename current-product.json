@@ -1,10 +1,10 @@
 {
-  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=wellness_studios_missed_lead_followup_kit",
-  "name": "Missed Lead Follow-Up Kit for Wellness Studios",
+  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=mobile_detailers_quote_followup_kit",
+  "name": "Quote Follow-Up Kit for Mobile Detailers",
   "payment_url": null,
-  "price_usd": 29,
-  "product_id": "wellness_studios_missed_lead_followup_kit",
-  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/wellness-studios-missed-lead-followup-kit/",
+  "price_usd": 39,
+  "product_id": "mobile_detailers_quote_followup_kit",
+  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/mobile-detailers-quote-followup-kit/",
   "schema_version": "active_product_reference_v1",
-  "updated_at": "2026-05-04T14:33:32.102970Z"
+  "updated_at": "2026-05-04T15:02:11.874667Z"
 }
