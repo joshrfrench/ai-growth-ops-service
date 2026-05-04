@@ -1,0 +1,50 @@
+{
+  "allowed_now": true,
+  "audience": "Cleaning Businesses",
+  "autonomy_fit": 95,
+  "base_score": 90.65,
+  "compliance_risk": 15,
+  "deliverables": [
+    "weekly scorecard template",
+    "lead source table",
+    "next-action review checklist"
+  ],
+  "evidence_adjustment": 8,
+  "evidence_strength": 60,
+  "fulfillment_mode": "instant_digital_delivery_after_payment_evidence",
+  "fulfillment_reliability": 95,
+  "generated_from": {
+    "audience_id": "cleaning_businesses",
+    "problem_id": "weekly_owner_dashboard"
+  },
+  "hypothesis": "Cleaning Businesses may buy a low-cost kit that helps them see what happened this week and what to do next.",
+  "idea_id": "cleaning_businesses_weekly_owner_dashboard_kit",
+  "idea_score": 98.65,
+  "ladder_stage": 1,
+  "margin": 95,
+  "name": "Weekly Owner Dashboard Kit for Cleaning Businesses",
+  "price_usd": 29,
+  "problem": "Weekly Owner Dashboard",
+  "product_family": "generated_ai_growth_ops_kits",
+  "product_id": "cleaning_businesses_weekly_owner_dashboard_kit",
+  "product_type": "digital_template",
+  "refund_risk": 17,
+  "sales_friction": 18,
+  "score_components": {
+    "autonomy_fit": 95,
+    "compliance_risk_adjustment": 85,
+    "evidence_strength": 60,
+    "fulfillment_reliability": 95,
+    "margin": 95,
+    "refund_risk_adjustment": 83,
+    "sales_friction_adjustment": 82,
+    "time_to_publish": 94,
+    "zero_budget_fit": 98
+  },
+  "selection_rationale": "Generated because low-cost digital kits are fast to create, easy to fulfill, and useful for testing demand while real leads and revenue are still sparse.",
+  "source_signal": "no real leads yet; create cheaper demand-sensing digital products",
+  "summary": "Downloadable templates and checklists to help cleaning businesses see what happened this week and what to do next.",
+  "target_customer": "Cleaning Businesses with an existing offer and a simple need around weekly owner dashboard.",
+  "time_to_publish": 94,
+  "zero_budget_fit": 98
+}

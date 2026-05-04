@@ -1,0 +1,50 @@
+{
+  "allowed_now": true,
+  "audience": "Consultants And Coaches",
+  "autonomy_fit": 95,
+  "base_score": 89.25,
+  "compliance_risk": 20,
+  "deliverables": [
+    "weekly scorecard template",
+    "lead source table",
+    "next-action review checklist"
+  ],
+  "evidence_adjustment": 8,
+  "evidence_strength": 60,
+  "fulfillment_mode": "instant_digital_delivery_after_payment_evidence",
+  "fulfillment_reliability": 95,
+  "generated_from": {
+    "audience_id": "consultants_and_coaches",
+    "problem_id": "weekly_owner_dashboard"
+  },
+  "hypothesis": "Consultants And Coaches may buy a low-cost kit that helps them see what happened this week and what to do next.",
+  "idea_id": "consultants_and_coaches_weekly_owner_dashboard_kit",
+  "idea_score": 97.25,
+  "ladder_stage": 1,
+  "margin": 95,
+  "name": "Weekly Owner Dashboard Kit for Consultants And Coaches",
+  "price_usd": 29,
+  "problem": "Weekly Owner Dashboard",
+  "product_family": "generated_ai_growth_ops_kits",
+  "product_id": "consultants_and_coaches_weekly_owner_dashboard_kit",
+  "product_type": "digital_template",
+  "refund_risk": 22,
+  "sales_friction": 23,
+  "score_components": {
+    "autonomy_fit": 95,
+    "compliance_risk_adjustment": 80,
+    "evidence_strength": 60,
+    "fulfillment_reliability": 95,
+    "margin": 95,
+    "refund_risk_adjustment": 78,
+    "sales_friction_adjustment": 77,
+    "time_to_publish": 94,
+    "zero_budget_fit": 98
+  },
+  "selection_rationale": "Generated because low-cost digital kits are fast to create, easy to fulfill, and useful for testing demand while real leads and revenue are still sparse.",
+  "source_signal": "no real leads yet; create cheaper demand-sensing digital products",
+  "summary": "Downloadable templates and checklists to help consultants and coaches see what happened this week and what to do next.",
+  "target_customer": "Consultants And Coaches with an existing offer and a simple need around weekly owner dashboard.",
+  "time_to_publish": 94,
+  "zero_budget_fit": 98
+}

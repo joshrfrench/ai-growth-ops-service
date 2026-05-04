@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "json_path": "public/ai-growth-ops/generated-products/consultants-and-coaches-weekly-owner-dashboard-kit/product.json",
+      "local_page": "public/ai-growth-ops/generated-products/consultants-and-coaches-weekly-owner-dashboard-kit/index.html",
+      "name": "Weekly Owner Dashboard Kit for Consultants And Coaches",
+      "price_usd": 29,
+      "product_id": "consultants_and_coaches_weekly_owner_dashboard_kit",
+      "relative_url": "generated-products/consultants-and-coaches-weekly-owner-dashboard-kit/"
+    },
+    {
+      "json_path": "public/ai-growth-ops/generated-products/consultants-and-coaches-missed-lead-followup-kit/product.json",
+      "local_page": "public/ai-growth-ops/generated-products/consultants-and-coaches-missed-lead-followup-kit/index.html",
+      "name": "Missed Lead Follow-Up Kit for Consultants And Coaches",
+      "price_usd": 29,
+      "product_id": "consultants_and_coaches_missed_lead_followup_kit",
+      "relative_url": "generated-products/consultants-and-coaches-missed-lead-followup-kit/"
+    },
+    {
+      "json_path": "public/ai-growth-ops/generated-products/wellness-studios-weekly-owner-dashboard-kit/product.json",
+      "local_page": "public/ai-growth-ops/generated-products/wellness-studios-weekly-owner-dashboard-kit/index.html",
+      "name": "Weekly Owner Dashboard Kit for Wellness Studios",
+      "price_usd": 29,
+      "product_id": "wellness_studios_weekly_owner_dashboard_kit",
+      "relative_url": "generated-products/wellness-studios-weekly-owner-dashboard-kit/"
+    },
+    {
+      "json_path": "public/ai-growth-ops/generated-products/wellness-studios-missed-lead-followup-kit/product.json",
+      "local_page": "public/ai-growth-ops/generated-products/wellness-studios-missed-lead-followup-kit/index.html",
+      "name": "Missed Lead Follow-Up Kit for Wellness Studios",
+      "price_usd": 29,
+      "product_id": "wellness_studios_missed_lead_followup_kit",
+      "relative_url": "generated-products/wellness-studios-missed-lead-followup-kit/"
+    },
+    {
+      "json_path": "public/ai-growth-ops/generated-products/mobile-detailers-quote-followup-kit/product.json",
+      "local_page": "public/ai-growth-ops/generated-products/mobile-detailers-quote-followup-kit/index.html",
+      "name": "Quote Follow-Up Kit for Mobile Detailers",
+      "price_usd": 39,
+      "product_id": "mobile_detailers_quote_followup_kit",
+      "relative_url": "generated-products/mobile-detailers-quote-followup-kit/"
+    },
+    {
+      "json_path": "public/ai-growth-ops/generated-products/cleaning-businesses-quote-followup-kit/product.json",
+      "local_page": "public/ai-growth-ops/generated-products/cleaning-businesses-quote-followup-kit/index.html",
+      "name": "Quote Follow-Up Kit for Cleaning Businesses",
+      "price_usd": 39,
+      "product_id": "cleaning_businesses_quote_followup_kit",
+      "relative_url": "generated-products/cleaning-businesses-quote-followup-kit/"
+    },
+    {
+      "json_path": "public/ai-growth-ops/generated-products/mobile-detailers-local-content-prompts-kit/product.json",
+      "local_page": "public/ai-growth-ops/generated-products/mobile-detailers-local-content-prompts-kit/index.html",
+      "name": "Local Content Prompts Kit for Mobile Detailers",
+      "price_usd": 39,
+      "product_id": "mobile_detailers_local_content_prompts_kit",
+      "relative_url": "generated-products/mobile-detailers-local-content-prompts-kit/"
+    },
+    {
+      "json_path": "public/ai-growth-ops/generated-products/home-service-operators-quote-followup-kit/product.json",
+      "local_page": "public/ai-growth-ops/generated-products/home-service-operators-quote-followup-kit/index.html",
+      "name": "Quote Follow-Up Kit for Home Service Operators",
+      "price_usd": 39,
+      "product_id": "home_service_operators_quote_followup_kit",
+      "relative_url": "generated-products/home-service-operators-quote-followup-kit/"
+    },
+    {
+      "json_path": "public/ai-growth-ops/generated-products/cleaning-businesses-local-content-prompts-kit/product.json",
+      "local_page": "public/ai-growth-ops/generated-products/cleaning-businesses-local-content-prompts-kit/index.html",
+      "name": "Local Content Prompts Kit for Cleaning Businesses",
+      "price_usd": 39,
+      "product_id": "cleaning_businesses_local_content_prompts_kit",
+      "relative_url": "generated-products/cleaning-businesses-local-content-prompts-kit/"
+    },
+    {
+      "json_path": "public/ai-growth-ops/generated-products/local-repair-shops-quote-followup-kit/product.json",
+      "local_page": "public/ai-growth-ops/generated-products/local-repair-shops-quote-followup-kit/index.html",
+      "name": "Quote Follow-Up Kit for Local Repair Shops",
+      "price_usd": 39,
+      "product_id": "local_repair_shops_quote_followup_kit",
+      "relative_url": "generated-products/local-repair-shops-quote-followup-kit/"
+    },
+    {
+      "json_path": "public/ai-growth-ops/generated-products/mobile-detailers-booking-page-fix-kit/product.json",
+      "local_page": "public/ai-growth-ops/generated-products/mobile-detailers-booking-page-fix-kit/index.html",
+      "name": "Booking Page Fix Kit for Mobile Detailers",
+      "price_usd": 39,
+      "product_id": "mobile_detailers_booking_page_fix_kit",
+      "relative_url": "generated-products/mobile-detailers-booking-page-fix-kit/"
+    },
+    {
+      "json_path": "public/ai-growth-ops/generated-products/home-service-operators-local-content-prompts-kit/product.json",
+      "local_page": "public/ai-growth-ops/generated-products/home-service-operators-local-content-prompts-kit/index.html",
+      "name": "Local Content Prompts Kit for Home Service Operators",
+      "price_usd": 39,
+      "product_id": "home_service_operators_local_content_prompts_kit",
+      "relative_url": "generated-products/home-service-operators-local-content-prompts-kit/"
+    }
+  ],
+  "schema_version": "generated_product_index_v1"
+}

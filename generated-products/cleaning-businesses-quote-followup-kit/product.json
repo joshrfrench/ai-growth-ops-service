@@ -1,0 +1,50 @@
+{
+  "allowed_now": true,
+  "audience": "Cleaning Businesses",
+  "autonomy_fit": 95,
+  "base_score": 89.73,
+  "compliance_risk": 19,
+  "deliverables": [
+    "quote follow-up templates",
+    "objection response bank",
+    "seven-day decision tracker"
+  ],
+  "evidence_adjustment": 6,
+  "evidence_strength": 56,
+  "fulfillment_mode": "instant_digital_delivery_after_payment_evidence",
+  "fulfillment_reliability": 95,
+  "generated_from": {
+    "audience_id": "cleaning_businesses",
+    "problem_id": "quote_followup"
+  },
+  "hypothesis": "Cleaning Businesses may buy a low-cost kit that helps them follow up on open quotes without sounding pushy.",
+  "idea_id": "cleaning_businesses_quote_followup_kit",
+  "idea_score": 95.73,
+  "ladder_stage": 1,
+  "margin": 95,
+  "name": "Quote Follow-Up Kit for Cleaning Businesses",
+  "price_usd": 39,
+  "problem": "Quote Follow-Up",
+  "product_family": "generated_ai_growth_ops_kits",
+  "product_id": "cleaning_businesses_quote_followup_kit",
+  "product_type": "digital_template",
+  "refund_risk": 19,
+  "sales_friction": 20,
+  "score_components": {
+    "autonomy_fit": 95,
+    "compliance_risk_adjustment": 81,
+    "evidence_strength": 56,
+    "fulfillment_reliability": 95,
+    "margin": 95,
+    "refund_risk_adjustment": 81,
+    "sales_friction_adjustment": 80,
+    "time_to_publish": 94,
+    "zero_budget_fit": 98
+  },
+  "selection_rationale": "Generated because low-cost digital kits are fast to create, easy to fulfill, and useful for testing demand while real leads and revenue are still sparse.",
+  "source_signal": "no real leads yet; create cheaper demand-sensing digital products",
+  "summary": "Downloadable templates and checklists to help cleaning businesses follow up on open quotes without sounding pushy.",
+  "target_customer": "Cleaning Businesses with an existing offer and a simple need around quote follow-up.",
+  "time_to_publish": 94,
+  "zero_budget_fit": 98
+}
