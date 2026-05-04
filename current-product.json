@@ -1,10 +1,10 @@
 {
-  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=mobile_detailers_booking_page_fix_kit",
-  "name": "Booking Page Fix Kit for Mobile Detailers",
+  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=home_service_operators_local_content_prompts_kit",
+  "name": "Local Content Prompts Kit for Home Service Operators",
   "payment_url": null,
   "price_usd": 39,
-  "product_id": "mobile_detailers_booking_page_fix_kit",
-  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/mobile-detailers-booking-page-fix-kit/",
+  "product_id": "home_service_operators_local_content_prompts_kit",
+  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-local-content-prompts-kit/",
   "schema_version": "active_product_reference_v1",
-  "updated_at": "2026-05-04T18:01:45.624137Z"
+  "updated_at": "2026-05-04T18:32:43.881068Z"
 }
