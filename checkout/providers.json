@@ -1,0 +1,59 @@
+{
+  "active_product_id": "home_service_operators_booking_page_fix_kit",
+  "autonomous_provider_attempt_policy": {
+    "allowed": [
+      "create or update free product listings",
+      "create or update checkout links where account verification is already available",
+      "record public checkout URLs after successful provider setup"
+    ],
+    "browser_use_allowed": true,
+    "fallback": "keep public checkout request flow live and record buyer intent before payment-link activation",
+    "reroute_without_failure_on": [
+      "paid plan required",
+      "payment method required before sale",
+      "CAPTCHA",
+      "unavailable OTP",
+      "phone or identity verification unavailable",
+      "bank or tax information unavailable",
+      "provider terms prohibit the product"
+    ]
+  },
+  "blockers": [
+    "active_product_payment_link_not_configured"
+  ],
+  "provider_routes": [
+    {
+      "no_upfront_cost_requirement": true,
+      "provider": "stripe_payment_links",
+      "route": "create reusable payment link from a Stripe account controlled outside the repo",
+      "stop_or_reroute_if": [
+        "payment_method_required_for_setup",
+        "identity_or_bank_step_unavailable",
+        "paid_plan_required"
+      ]
+    },
+    {
+      "no_upfront_cost_requirement": true,
+      "provider": "payhip_free",
+      "route": "create free storefront/product and record the public product checkout URL",
+      "stop_or_reroute_if": [
+        "paid_plan_required",
+        "unsupported_terms",
+        "unavailable_email_verification"
+      ]
+    },
+    {
+      "no_upfront_cost_requirement": true,
+      "provider": "gumroad_direct",
+      "route": "create direct product link and record only the public URL",
+      "stop_or_reroute_if": [
+        "paid_plan_required",
+        "unsupported_terms",
+        "unavailable_email_verification"
+      ]
+    }
+  ],
+  "record_payment_link_command": "python3 -m agentic_systems.cli payment-link-record --run latest --product-id home_service_operators_booking_page_fix_kit --payment-url <public checkout url> --provider <stripe|payhip|gumroad>",
+  "schema_version": "checkout_provider_routes_v1",
+  "updated_at": "2026-05-05T04:43:03.675116Z"
+}

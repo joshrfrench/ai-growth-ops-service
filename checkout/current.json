@@ -1,0 +1,14 @@
+{
+  "automatic_charge": false,
+  "checkout_request_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=home_service_operators_booking_page_fix_kit&intent=checkout_request",
+  "name": "Booking Page Fix Kit for Home Service Operators",
+  "payment_url": null,
+  "price_usd": 39,
+  "product_id": "home_service_operators_booking_page_fix_kit",
+  "public_checkout_page": "https://joshrfrench.github.io/ai-growth-ops-service/checkout/home-service-operators-booking-page-fix-kit/",
+  "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-booking-page-fix-kit/",
+  "requires_explicit_customer_action": true,
+  "schema_version": "checkout_current_product_v1",
+  "status": "request-only until a provider payment link is recorded",
+  "updated_at": "2026-05-05T04:43:03.674976Z"
+}

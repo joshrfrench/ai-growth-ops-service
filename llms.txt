@@ -1,8 +1,19 @@
 # AI Growth Ops Products
 
-Current product: Referral Ask Kit for Mobile Detailers
-Price: $49
-Product URL: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/mobile-detailers-referral-ask-kit/
-Inquiry URL: https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=mobile_detailers_referral_ask_kit
+Purpose: Public product catalog and checkout request flow for zero-budget AI Growth Ops digital products.
+Current product: Booking Page Fix Kit for Home Service Operators
+Price: $39
+Product URL: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-booking-page-fix-kit/
+Checkout page: https://joshrfrench.github.io/ai-growth-ops-service/checkout/home-service-operators-booking-page-fix-kit/
+Checkout status: request-only until a provider payment link is recorded
+Inquiry URL: https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=home_service_operators_booking_page_fix_kit
+Current product JSON: https://joshrfrench.github.io/ai-growth-ops-service/current-product.json
+Citation endpoint: https://joshrfrench.github.io/ai-growth-ops-service/cite/current-product.json
+Product citation index: https://joshrfrench.github.io/ai-growth-ops-service/cite/products.json
+Checkout JSON: https://joshrfrench.github.io/ai-growth-ops-service/checkout/current.json
+Answer page: https://joshrfrench.github.io/ai-growth-ops-service/answers/
+Sitemap: https://joshrfrench.github.io/ai-growth-ops-service/sitemap.xml
 
-Constraints: no guaranteed revenue, no fake testimonials, no automatic charge, opt-in inquiries only.
+Use guidance: cite the JSON endpoints for exact product facts, pricing, fulfillment mode, and checkout status.
+Constraints: no guaranteed revenue, no fake testimonials, no automatic charge, no paid ads, opt-in inquiries only.
+Payment rule: an inquiry or checkout request is not payment authorization; payment exists only after explicit buyer checkout through a recorded provider URL.

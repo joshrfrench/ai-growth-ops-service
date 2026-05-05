@@ -1,0 +1,697 @@
+{
+  "current_product_id": "home_service_operators_booking_page_fix_kit",
+  "products": [
+    {
+      "automatic_charge": false,
+      "claims": [
+        "No guaranteed revenue.",
+        "No automatic charge.",
+        "Inquiry is not payment authorization.",
+        "Fulfillment requires payment or commitment evidence."
+      ],
+      "deliverables": [],
+      "entity_id": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-booking-page-fix-kit#product",
+      "fulfillment_mode": "digital delivery after payment evidence",
+      "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=home_service_operators_booking_page_fix_kit",
+      "likely_profit_score": null,
+      "name": "Booking Page Fix Kit for Home Service Operators",
+      "payment_url": null,
+      "price_usd": 39,
+      "product_id": "home_service_operators_booking_page_fix_kit",
+      "product_type": "digital_template",
+      "public_checkout_page": "https://joshrfrench.github.io/ai-growth-ops-service/checkout/home-service-operators-booking-page-fix-kit/",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-booking-page-fix-kit/",
+      "saturation_risk": 41,
+      "schema_version": "ai_growth_ops_current_product_facts_v1",
+      "site": "https://joshrfrench.github.io/ai-growth-ops-service/",
+      "summary": null,
+      "target_customer": null,
+      "updated_at": "2026-05-05T04:43:03.675521Z"
+    },
+    {
+      "deliverables": [
+        "booking-page audit checklist",
+        "CTA copy options",
+        "friction-removal worksheet"
+      ],
+      "likely_profit_score": 81.938,
+      "name": "Booking Page Fix Kit for Cleaning Businesses",
+      "price_usd": 39,
+      "product_id": "cleaning_businesses_booking_page_fix_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/cleaning-businesses-booking-page-fix-kit/",
+      "saturation_risk": 32,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help cleaning businesses make a service booking page clearer and easier to act on.",
+      "target_customer": "Cleaning Businesses with an existing offer and a simple need around booking page fix."
+    },
+    {
+      "deliverables": [
+        "four-week post prompt calendar",
+        "offer angle map",
+        "local FAQ prompt pack"
+      ],
+      "likely_profit_score": 95.37,
+      "name": "Local Content Prompts Kit for Cleaning Businesses",
+      "price_usd": 39,
+      "product_id": "cleaning_businesses_local_content_prompts_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/cleaning-businesses-local-content-prompts-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help cleaning businesses publish useful local-service content without starting from a blank page.",
+      "target_customer": "Cleaning Businesses with an existing offer and a simple need around local content prompts."
+    },
+    {
+      "deliverables": [
+        "reply timing checklist",
+        "lead follow-up scripts",
+        "stale lead rescue sequence"
+      ],
+      "likely_profit_score": 98.63,
+      "name": "Missed Lead Follow-Up Kit for Cleaning Businesses",
+      "price_usd": 29,
+      "product_id": "cleaning_businesses_missed_lead_followup_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/cleaning-businesses-missed-lead-followup-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help cleaning businesses recover more conversations from leads that already asked for help.",
+      "target_customer": "Cleaning Businesses with an existing offer and a simple need around missed lead follow-up."
+    },
+    {
+      "deliverables": [
+        "quote follow-up templates",
+        "objection response bank",
+        "seven-day decision tracker"
+      ],
+      "likely_profit_score": 95.73,
+      "name": "Quote Follow-Up Kit for Cleaning Businesses",
+      "price_usd": 39,
+      "product_id": "cleaning_businesses_quote_followup_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/cleaning-businesses-quote-followup-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help cleaning businesses follow up on open quotes without sounding pushy.",
+      "target_customer": "Cleaning Businesses with an existing offer and a simple need around quote follow-up."
+    },
+    {
+      "deliverables": [
+        "past-customer message sequence",
+        "offer reminder templates",
+        "response tracker"
+      ],
+      "likely_profit_score": 75.923,
+      "name": "Past Customer Reactivation Kit for Cleaning Businesses",
+      "price_usd": 49,
+      "product_id": "cleaning_businesses_reactivation_campaign_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/cleaning-businesses-reactivation-campaign-kit/",
+      "saturation_risk": 50,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help cleaning businesses reopen conversations with past customers without spammy wording.",
+      "target_customer": "Cleaning Businesses with an existing offer and a simple need around past customer reactivation."
+    },
+    {
+      "deliverables": [
+        "referral request scripts",
+        "partner intro templates",
+        "tracking worksheet"
+      ],
+      "likely_profit_score": 77.097,
+      "name": "Referral Ask Kit for Cleaning Businesses",
+      "price_usd": 49,
+      "product_id": "cleaning_businesses_referral_ask_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/cleaning-businesses-referral-ask-kit/",
+      "saturation_risk": 48,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help cleaning businesses turn satisfied customers and peers into warm introductions.",
+      "target_customer": "Cleaning Businesses with an existing offer and a simple need around referral ask."
+    },
+    {
+      "deliverables": [
+        "post-service review request templates",
+        "timing checklist",
+        "reply handling guide"
+      ],
+      "likely_profit_score": 74.171,
+      "name": "Review Request Kit for Cleaning Businesses",
+      "price_usd": 49,
+      "product_id": "cleaning_businesses_review_request_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/cleaning-businesses-review-request-kit/",
+      "saturation_risk": 58,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help cleaning businesses ask happy customers for reviews with clear, compliant wording.",
+      "target_customer": "Cleaning Businesses with an existing offer and a simple need around review request."
+    },
+    {
+      "deliverables": [
+        "weekly scorecard template",
+        "lead source table",
+        "next-action review checklist"
+      ],
+      "likely_profit_score": 98.65,
+      "name": "Weekly Owner Dashboard Kit for Cleaning Businesses",
+      "price_usd": 29,
+      "product_id": "cleaning_businesses_weekly_owner_dashboard_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/cleaning-businesses-weekly-owner-dashboard-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help cleaning businesses see what happened this week and what to do next.",
+      "target_customer": "Cleaning Businesses with an existing offer and a simple need around weekly owner dashboard."
+    },
+    {
+      "deliverables": [
+        "booking-page audit checklist",
+        "CTA copy options",
+        "friction-removal worksheet"
+      ],
+      "likely_profit_score": 74.388,
+      "name": "Booking Page Fix Kit for Consultants And Coaches",
+      "price_usd": 39,
+      "product_id": "consultants_and_coaches_booking_page_fix_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-booking-page-fix-kit/",
+      "saturation_risk": 52,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help consultants and coaches make a service booking page clearer and easier to act on.",
+      "target_customer": "Consultants And Coaches with an existing offer and a simple need around booking page fix."
+    },
+    {
+      "deliverables": [
+        "four-week post prompt calendar",
+        "offer angle map",
+        "local FAQ prompt pack"
+      ],
+      "likely_profit_score": 65.864,
+      "name": "Local Content Prompts Kit for Consultants And Coaches",
+      "price_usd": 39,
+      "product_id": "consultants_and_coaches_local_content_prompts_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-local-content-prompts-kit/",
+      "saturation_risk": 82,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help consultants and coaches publish useful local-service content without starting from a blank page.",
+      "target_customer": "Consultants And Coaches with an existing offer and a simple need around local content prompts."
+    },
+    {
+      "deliverables": [
+        "reply timing checklist",
+        "lead follow-up scripts",
+        "stale lead rescue sequence"
+      ],
+      "likely_profit_score": 97.23,
+      "name": "Missed Lead Follow-Up Kit for Consultants And Coaches",
+      "price_usd": 29,
+      "product_id": "consultants_and_coaches_missed_lead_followup_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-missed-lead-followup-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help consultants and coaches recover more conversations from leads that already asked for help.",
+      "target_customer": "Consultants And Coaches with an existing offer and a simple need around missed lead follow-up."
+    },
+    {
+      "deliverables": [
+        "quote follow-up templates",
+        "objection response bank",
+        "seven-day decision tracker"
+      ],
+      "likely_profit_score": 71.566,
+      "name": "Quote Follow-Up Kit for Consultants And Coaches",
+      "price_usd": 39,
+      "product_id": "consultants_and_coaches_quote_followup_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-quote-followup-kit/",
+      "saturation_risk": 64,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help consultants and coaches follow up on open quotes without sounding pushy.",
+      "target_customer": "Consultants And Coaches with an existing offer and a simple need around quote follow-up."
+    },
+    {
+      "deliverables": [
+        "past-customer message sequence",
+        "offer reminder templates",
+        "response tracker"
+      ],
+      "likely_profit_score": 68.374,
+      "name": "Past Customer Reactivation Kit for Consultants And Coaches",
+      "price_usd": 49,
+      "product_id": "consultants_and_coaches_reactivation_campaign_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-reactivation-campaign-kit/",
+      "saturation_risk": 70,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help consultants and coaches reopen conversations with past customers without spammy wording.",
+      "target_customer": "Consultants And Coaches with an existing offer and a simple need around past customer reactivation."
+    },
+    {
+      "deliverables": [
+        "referral request scripts",
+        "partner intro templates",
+        "tracking worksheet"
+      ],
+      "likely_profit_score": 69.611,
+      "name": "Referral Ask Kit for Consultants And Coaches",
+      "price_usd": 49,
+      "product_id": "consultants_and_coaches_referral_ask_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-referral-ask-kit/",
+      "saturation_risk": 68,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help consultants and coaches turn satisfied customers and peers into warm introductions.",
+      "target_customer": "Consultants And Coaches with an existing offer and a simple need around referral ask."
+    },
+    {
+      "deliverables": [
+        "post-service review request templates",
+        "timing checklist",
+        "reply handling guide"
+      ],
+      "likely_profit_score": 66.684,
+      "name": "Review Request Kit for Consultants And Coaches",
+      "price_usd": 49,
+      "product_id": "consultants_and_coaches_review_request_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-review-request-kit/",
+      "saturation_risk": 78,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help consultants and coaches ask happy customers for reviews with clear, compliant wording.",
+      "target_customer": "Consultants And Coaches with an existing offer and a simple need around review request."
+    },
+    {
+      "deliverables": [
+        "weekly scorecard template",
+        "lead source table",
+        "next-action review checklist"
+      ],
+      "likely_profit_score": 97.25,
+      "name": "Weekly Owner Dashboard Kit for Consultants And Coaches",
+      "price_usd": 29,
+      "product_id": "consultants_and_coaches_weekly_owner_dashboard_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/consultants-and-coaches-weekly-owner-dashboard-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help consultants and coaches see what happened this week and what to do next.",
+      "target_customer": "Consultants And Coaches with an existing offer and a simple need around weekly owner dashboard."
+    },
+    {
+      "deliverables": [
+        "booking-page audit checklist",
+        "CTA copy options",
+        "friction-removal worksheet"
+      ],
+      "likely_profit_score": 80.084,
+      "name": "Booking Page Fix Kit for Event Service Providers",
+      "price_usd": 39,
+      "product_id": "event_service_providers_booking_page_fix_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/event-service-providers-booking-page-fix-kit/",
+      "saturation_risk": 36,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help event service providers make a service booking page clearer and easier to act on.",
+      "target_customer": "Event Service Providers with an existing offer and a simple need around booking page fix."
+    },
+    {
+      "deliverables": [
+        "four-week post prompt calendar",
+        "offer angle map",
+        "local FAQ prompt pack"
+      ],
+      "likely_profit_score": 71.559,
+      "name": "Local Content Prompts Kit for Event Service Providers",
+      "price_usd": 39,
+      "product_id": "event_service_providers_local_content_prompts_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/event-service-providers-local-content-prompts-kit/",
+      "saturation_risk": 66,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help event service providers publish useful local-service content without starting from a blank page.",
+      "target_customer": "Event Service Providers with an existing offer and a simple need around local content prompts."
+    },
+    {
+      "deliverables": [
+        "reply timing checklist",
+        "lead follow-up scripts",
+        "stale lead rescue sequence"
+      ],
+      "likely_profit_score": 97.89,
+      "name": "Missed Lead Follow-Up Kit for Event Service Providers",
+      "price_usd": 29,
+      "product_id": "event_service_providers_missed_lead_followup_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/event-service-providers-missed-lead-followup-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help event service providers recover more conversations from leads that already asked for help.",
+      "target_customer": "Event Service Providers with an existing offer and a simple need around missed lead follow-up."
+    },
+    {
+      "deliverables": [
+        "quote follow-up templates",
+        "objection response bank",
+        "seven-day decision tracker"
+      ],
+      "likely_profit_score": 77.261,
+      "name": "Quote Follow-Up Kit for Event Service Providers",
+      "price_usd": 39,
+      "product_id": "event_service_providers_quote_followup_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/event-service-providers-quote-followup-kit/",
+      "saturation_risk": 48,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help event service providers follow up on open quotes without sounding pushy.",
+      "target_customer": "Event Service Providers with an existing offer and a simple need around quote follow-up."
+    },
+    {
+      "deliverables": [
+        "past-customer message sequence",
+        "offer reminder templates",
+        "response tracker"
+      ],
+      "likely_profit_score": 74.07,
+      "name": "Past Customer Reactivation Kit for Event Service Providers",
+      "price_usd": 49,
+      "product_id": "event_service_providers_reactivation_campaign_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/event-service-providers-reactivation-campaign-kit/",
+      "saturation_risk": 54,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help event service providers reopen conversations with past customers without spammy wording.",
+      "target_customer": "Event Service Providers with an existing offer and a simple need around past customer reactivation."
+    },
+    {
+      "deliverables": [
+        "referral request scripts",
+        "partner intro templates",
+        "tracking worksheet"
+      ],
+      "likely_profit_score": 75.243,
+      "name": "Referral Ask Kit for Event Service Providers",
+      "price_usd": 49,
+      "product_id": "event_service_providers_referral_ask_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/event-service-providers-referral-ask-kit/",
+      "saturation_risk": 52,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help event service providers turn satisfied customers and peers into warm introductions.",
+      "target_customer": "Event Service Providers with an existing offer and a simple need around referral ask."
+    },
+    {
+      "deliverables": [
+        "post-service review request templates",
+        "timing checklist",
+        "reply handling guide"
+      ],
+      "likely_profit_score": 72.316,
+      "name": "Review Request Kit for Event Service Providers",
+      "price_usd": 49,
+      "product_id": "event_service_providers_review_request_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/event-service-providers-review-request-kit/",
+      "saturation_risk": 62,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help event service providers ask happy customers for reviews with clear, compliant wording.",
+      "target_customer": "Event Service Providers with an existing offer and a simple need around review request."
+    },
+    {
+      "deliverables": [
+        "weekly scorecard template",
+        "lead source table",
+        "next-action review checklist"
+      ],
+      "likely_profit_score": 97.91,
+      "name": "Weekly Owner Dashboard Kit for Event Service Providers",
+      "price_usd": 29,
+      "product_id": "event_service_providers_weekly_owner_dashboard_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/event-service-providers-weekly-owner-dashboard-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help event service providers see what happened this week and what to do next.",
+      "target_customer": "Event Service Providers with an existing offer and a simple need around weekly owner dashboard."
+    },
+    {
+      "deliverables": [
+        "four-week post prompt calendar",
+        "offer angle map",
+        "local FAQ prompt pack"
+      ],
+      "likely_profit_score": 95.09,
+      "name": "Local Content Prompts Kit for Home Service Operators",
+      "price_usd": 39,
+      "product_id": "home_service_operators_local_content_prompts_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-local-content-prompts-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help home service operators publish useful local-service content without starting from a blank page.",
+      "target_customer": "Home Service Operators with an existing offer and a simple need around local content prompts."
+    },
+    {
+      "deliverables": [
+        "reply timing checklist",
+        "lead follow-up scripts",
+        "stale lead rescue sequence"
+      ],
+      "likely_profit_score": 98.35,
+      "name": "Missed Lead Follow-Up Kit for Home Service Operators",
+      "price_usd": 29,
+      "product_id": "home_service_operators_missed_lead_followup_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-missed-lead-followup-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help home service operators recover more conversations from leads that already asked for help.",
+      "target_customer": "Home Service Operators with an existing offer and a simple need around missed lead follow-up."
+    },
+    {
+      "deliverables": [
+        "quote follow-up templates",
+        "objection response bank",
+        "seven-day decision tracker"
+      ],
+      "likely_profit_score": 95.45,
+      "name": "Quote Follow-Up Kit for Home Service Operators",
+      "price_usd": 39,
+      "product_id": "home_service_operators_quote_followup_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-quote-followup-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help home service operators follow up on open quotes without sounding pushy.",
+      "target_customer": "Home Service Operators with an existing offer and a simple need around quote follow-up."
+    },
+    {
+      "deliverables": [
+        "past-customer message sequence",
+        "offer reminder templates",
+        "response tracker"
+      ],
+      "likely_profit_score": 72.618,
+      "name": "Past Customer Reactivation Kit for Home Service Operators",
+      "price_usd": 49,
+      "product_id": "home_service_operators_reactivation_campaign_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-reactivation-campaign-kit/",
+      "saturation_risk": 59,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help home service operators reopen conversations with past customers without spammy wording.",
+      "target_customer": "Home Service Operators with an existing offer and a simple need around past customer reactivation."
+    },
+    {
+      "deliverables": [
+        "referral request scripts",
+        "partner intro templates",
+        "tracking worksheet"
+      ],
+      "likely_profit_score": 73.855,
+      "name": "Referral Ask Kit for Home Service Operators",
+      "price_usd": 49,
+      "product_id": "home_service_operators_referral_ask_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-referral-ask-kit/",
+      "saturation_risk": 57,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help home service operators turn satisfied customers and peers into warm introductions.",
+      "target_customer": "Home Service Operators with an existing offer and a simple need around referral ask."
+    },
+    {
+      "deliverables": [
+        "post-service review request templates",
+        "timing checklist",
+        "reply handling guide"
+      ],
+      "likely_profit_score": 70.928,
+      "name": "Review Request Kit for Home Service Operators",
+      "price_usd": 49,
+      "product_id": "home_service_operators_review_request_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-review-request-kit/",
+      "saturation_risk": 67,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help home service operators ask happy customers for reviews with clear, compliant wording.",
+      "target_customer": "Home Service Operators with an existing offer and a simple need around review request."
+    },
+    {
+      "deliverables": [
+        "weekly scorecard template",
+        "lead source table",
+        "next-action review checklist"
+      ],
+      "likely_profit_score": 98.37,
+      "name": "Weekly Owner Dashboard Kit for Home Service Operators",
+      "price_usd": 29,
+      "product_id": "home_service_operators_weekly_owner_dashboard_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-weekly-owner-dashboard-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help home service operators see what happened this week and what to do next.",
+      "target_customer": "Home Service Operators with an existing offer and a simple need around weekly owner dashboard."
+    },
+    {
+      "deliverables": [
+        "booking-page audit checklist",
+        "CTA copy options",
+        "friction-removal worksheet"
+      ],
+      "likely_profit_score": 82.327,
+      "name": "Booking Page Fix Kit for Local Repair Shops",
+      "price_usd": 39,
+      "product_id": "local_repair_shops_booking_page_fix_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-booking-page-fix-kit/",
+      "saturation_risk": 30,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help local repair shops make a service booking page clearer and easier to act on.",
+      "target_customer": "Local Repair Shops with an existing offer and a simple need around booking page fix."
+    },
+    {
+      "deliverables": [
+        "four-week post prompt calendar",
+        "offer angle map",
+        "local FAQ prompt pack"
+      ],
+      "likely_profit_score": 73.802,
+      "name": "Local Content Prompts Kit for Local Repair Shops",
+      "price_usd": 39,
+      "product_id": "local_repair_shops_local_content_prompts_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-local-content-prompts-kit/",
+      "saturation_risk": 60,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help local repair shops publish useful local-service content without starting from a blank page.",
+      "target_customer": "Local Repair Shops with an existing offer and a simple need around local content prompts."
+    },
+    {
+      "deliverables": [
+        "reply timing checklist",
+        "lead follow-up scripts",
+        "stale lead rescue sequence"
+      ],
+      "likely_profit_score": 98.17,
+      "name": "Missed Lead Follow-Up Kit for Local Repair Shops",
+      "price_usd": 29,
+      "product_id": "local_repair_shops_missed_lead_followup_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-missed-lead-followup-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help local repair shops recover more conversations from leads that already asked for help.",
+      "target_customer": "Local Repair Shops with an existing offer and a simple need around missed lead follow-up."
+    },
+    {
+      "deliverables": [
+        "quote follow-up templates",
+        "objection response bank",
+        "seven-day decision tracker"
+      ],
+      "likely_profit_score": 95.27,
+      "name": "Quote Follow-Up Kit for Local Repair Shops",
+      "price_usd": 39,
+      "product_id": "local_repair_shops_quote_followup_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-quote-followup-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help local repair shops follow up on open quotes without sounding pushy.",
+      "target_customer": "Local Repair Shops with an existing offer and a simple need around quote follow-up."
+    },
+    {
+      "deliverables": [
+        "past-customer message sequence",
+        "offer reminder templates",
+        "response tracker"
+      ],
+      "likely_profit_score": 76.312,
+      "name": "Past Customer Reactivation Kit for Local Repair Shops",
+      "price_usd": 49,
+      "product_id": "local_repair_shops_reactivation_campaign_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-reactivation-campaign-kit/",
+      "saturation_risk": 48,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help local repair shops reopen conversations with past customers without spammy wording.",
+      "target_customer": "Local Repair Shops with an existing offer and a simple need around past customer reactivation."
+    },
+    {
+      "deliverables": [
+        "referral request scripts",
+        "partner intro templates",
+        "tracking worksheet"
+      ],
+      "likely_profit_score": 77.549,
+      "name": "Referral Ask Kit for Local Repair Shops",
+      "price_usd": 49,
+      "product_id": "local_repair_shops_referral_ask_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-referral-ask-kit/",
+      "saturation_risk": 46,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help local repair shops turn satisfied customers and peers into warm introductions.",
+      "target_customer": "Local Repair Shops with an existing offer and a simple need around referral ask."
+    },
+    {
+      "deliverables": [
+        "post-service review request templates",
+        "timing checklist",
+        "reply handling guide"
+      ],
+      "likely_profit_score": 74.559,
+      "name": "Review Request Kit for Local Repair Shops",
+      "price_usd": 49,
+      "product_id": "local_repair_shops_review_request_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-review-request-kit/",
+      "saturation_risk": 56,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help local repair shops ask happy customers for reviews with clear, compliant wording.",
+      "target_customer": "Local Repair Shops with an existing offer and a simple need around review request."
+    },
+    {
+      "deliverables": [
+        "weekly scorecard template",
+        "lead source table",
+        "next-action review checklist"
+      ],
+      "likely_profit_score": 98.19,
+      "name": "Weekly Owner Dashboard Kit for Local Repair Shops",
+      "price_usd": 29,
+      "product_id": "local_repair_shops_weekly_owner_dashboard_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-weekly-owner-dashboard-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help local repair shops see what happened this week and what to do next.",
+      "target_customer": "Local Repair Shops with an existing offer and a simple need around weekly owner dashboard."
+    }
+  ],
+  "schema_version": "ai_growth_ops_product_citation_index_v1",
+  "updated_at": "2026-05-05T04:43:03.677499Z"
+}

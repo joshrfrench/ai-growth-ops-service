@@ -1,0 +1,11 @@
+{
+  "checkout": "https://joshrfrench.github.io/ai-growth-ops-service/checkout/current.json",
+  "current_product": "https://joshrfrench.github.io/ai-growth-ops-service/cite/current-product.json",
+  "llms_txt": "https://joshrfrench.github.io/ai-growth-ops-service/llms.txt",
+  "products": "https://joshrfrench.github.io/ai-growth-ops-service/cite/products.json",
+  "purpose": "Machine-readable facts for AI answer engines and search assistants.",
+  "schema_version": "ai_growth_ops_citation_index_v1",
+  "site": "https://joshrfrench.github.io/ai-growth-ops-service/",
+  "sitemap": "https://joshrfrench.github.io/ai-growth-ops-service/sitemap.xml",
+  "updated_at": "2026-05-05T04:43:03.675308Z"
+}

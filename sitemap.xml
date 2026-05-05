@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://joshrfrench.github.io/ai-growth-ops-service/</loc></url>
+  <url><loc>https://joshrfrench.github.io/ai-growth-ops-service/answers/</loc></url>
+  <url><loc>https://joshrfrench.github.io/ai-growth-ops-service/checkout/</loc></url>
+  <url><loc>https://joshrfrench.github.io/ai-growth-ops-service/checkout/home-service-operators-booking-page-fix-kit/</loc></url>
+  <url><loc>https://joshrfrench.github.io/ai-growth-ops-service/cite/current-product.json</loc></url>
+  <url><loc>https://joshrfrench.github.io/ai-growth-ops-service/cite/index.json</loc></url>
+  <url><loc>https://joshrfrench.github.io/ai-growth-ops-service/cite/products.json</loc></url>
   <url><loc>https://joshrfrench.github.io/ai-growth-ops-service/generated-products/</loc></url>
   <url><loc>https://joshrfrench.github.io/ai-growth-ops-service/generated-products/cleaning-businesses-booking-page-fix-kit/</loc></url>
   <url><loc>https://joshrfrench.github.io/ai-growth-ops-service/generated-products/cleaning-businesses-local-content-prompts-kit/</loc></url>

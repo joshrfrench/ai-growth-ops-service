@@ -1,0 +1,27 @@
+{
+  "automatic_charge": false,
+  "claims": [
+    "No guaranteed revenue.",
+    "No automatic charge.",
+    "Inquiry is not payment authorization.",
+    "Fulfillment requires payment or commitment evidence."
+  ],
+  "deliverables": [],
+  "entity_id": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-booking-page-fix-kit#product",
+  "fulfillment_mode": "digital delivery after payment evidence",
+  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=home_service_operators_booking_page_fix_kit",
+  "likely_profit_score": null,
+  "name": "Booking Page Fix Kit for Home Service Operators",
+  "payment_url": null,
+  "price_usd": 39,
+  "product_id": "home_service_operators_booking_page_fix_kit",
+  "product_type": "digital_template",
+  "public_checkout_page": "https://joshrfrench.github.io/ai-growth-ops-service/checkout/home-service-operators-booking-page-fix-kit/",
+  "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-booking-page-fix-kit/",
+  "saturation_risk": 41,
+  "schema_version": "ai_growth_ops_current_product_facts_v1",
+  "site": "https://joshrfrench.github.io/ai-growth-ops-service/",
+  "summary": null,
+  "target_customer": null,
+  "updated_at": "2026-05-05T04:43:03.675407Z"
+}

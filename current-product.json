@@ -1,10 +1,10 @@
 {
-  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=mobile_detailers_referral_ask_kit",
-  "name": "Referral Ask Kit for Mobile Detailers",
+  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=home_service_operators_booking_page_fix_kit",
+  "name": "Booking Page Fix Kit for Home Service Operators",
   "payment_url": null,
-  "price_usd": 49,
-  "product_id": "mobile_detailers_referral_ask_kit",
-  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/mobile-detailers-referral-ask-kit/",
+  "price_usd": 39,
+  "product_id": "home_service_operators_booking_page_fix_kit",
+  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-booking-page-fix-kit/",
   "schema_version": "active_product_reference_v1",
-  "updated_at": "2026-05-04T20:32:42.850820Z"
+  "updated_at": "2026-05-05T04:43:03.678517Z"
 }
