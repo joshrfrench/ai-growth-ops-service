@@ -1,12 +1,12 @@
 # AI Growth Ops Products
 
 Purpose: Public product catalog and checkout request flow for zero-budget AI Growth Ops digital products.
-Current product: Booking Page Fix Kit for Home Service Operators
+Current product: Booking Page Fix Kit for Photographers
 Price: $39
-Product URL: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/home-service-operators-booking-page-fix-kit/
-Checkout page: https://joshrfrench.github.io/ai-growth-ops-service/checkout/home-service-operators-booking-page-fix-kit/
+Product URL: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/photographers-booking-page-fix-kit/
+Checkout page: https://joshrfrench.github.io/ai-growth-ops-service/checkout/photographers-booking-page-fix-kit/
 Checkout status: request-only until a provider payment link is recorded
-Inquiry URL: https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=home_service_operators_booking_page_fix_kit
+Inquiry URL: https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=photographers_booking_page_fix_kit
 Current product JSON: https://joshrfrench.github.io/ai-growth-ops-service/current-product.json
 Citation endpoint: https://joshrfrench.github.io/ai-growth-ops-service/cite/current-product.json
 Product citation index: https://joshrfrench.github.io/ai-growth-ops-service/cite/products.json
