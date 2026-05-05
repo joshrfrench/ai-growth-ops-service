@@ -1,10 +1,10 @@
 {
-  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=photographers_booking_page_fix_kit",
-  "name": "Booking Page Fix Kit for Photographers",
+  "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=mobile_detailers_reactivation_campaign_kit",
+  "name": "Past Customer Reactivation Kit for Mobile Detailers",
   "payment_url": null,
-  "price_usd": 39,
-  "product_id": "photographers_booking_page_fix_kit",
-  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/photographers-booking-page-fix-kit/",
+  "price_usd": 49,
+  "product_id": "mobile_detailers_reactivation_campaign_kit",
+  "public_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/mobile-detailers-reactivation-campaign-kit/",
   "schema_version": "active_product_reference_v1",
-  "updated_at": "2026-05-05T04:44:44.551957Z"
+  "updated_at": "2026-05-05T04:46:11.054123Z"
 }

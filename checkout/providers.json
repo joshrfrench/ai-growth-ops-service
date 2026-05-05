@@ -1,5 +1,5 @@
 {
-  "active_product_id": "photographers_booking_page_fix_kit",
+  "active_product_id": "mobile_detailers_reactivation_campaign_kit",
   "autonomous_provider_attempt_policy": {
     "allowed": [
       "create or update free product listings",
@@ -53,7 +53,7 @@
       ]
     }
   ],
-  "record_payment_link_command": "python3 -m agentic_systems.cli payment-link-record --run latest --product-id photographers_booking_page_fix_kit --payment-url <public checkout url> --provider <stripe|payhip|gumroad>",
+  "record_payment_link_command": "python3 -m agentic_systems.cli payment-link-record --run latest --product-id mobile_detailers_reactivation_campaign_kit --payment-url <public checkout url> --provider <stripe|payhip|gumroad>",
   "schema_version": "checkout_provider_routes_v1",
-  "updated_at": "2026-05-05T04:44:44.548805Z"
+  "updated_at": "2026-05-05T04:46:11.050807Z"
 }

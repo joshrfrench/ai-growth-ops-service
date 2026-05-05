@@ -1,5 +1,5 @@
 {
-  "current_product_id": "photographers_booking_page_fix_kit",
+  "current_product_id": "mobile_detailers_reactivation_campaign_kit",
   "products": [
     {
       "automatic_charge": false,
@@ -10,27 +10,27 @@
         "Fulfillment requires payment or commitment evidence."
       ],
       "deliverables": [
-        "booking-page audit checklist",
-        "CTA copy options",
-        "friction-removal worksheet"
+        "past-customer message sequence",
+        "offer reminder templates",
+        "response tracker"
       ],
-      "entity_id": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/photographers-booking-page-fix-kit#product",
+      "entity_id": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/mobile-detailers-reactivation-campaign-kit/#product",
       "fulfillment_mode": "instant_digital_delivery_after_payment_evidence",
-      "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=photographers_booking_page_fix_kit",
+      "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=mobile_detailers_reactivation_campaign_kit",
       "likely_profit_score": null,
-      "name": "Booking Page Fix Kit for Photographers",
+      "name": "Past Customer Reactivation Kit for Mobile Detailers",
       "payment_url": null,
-      "price_usd": 39,
-      "product_id": "photographers_booking_page_fix_kit",
+      "price_usd": 49,
+      "product_id": "mobile_detailers_reactivation_campaign_kit",
       "product_type": "digital_template",
-      "public_checkout_page": "https://joshrfrench.github.io/ai-growth-ops-service/checkout/photographers-booking-page-fix-kit/",
-      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/photographers-booking-page-fix-kit/",
-      "saturation_risk": 42,
+      "public_checkout_page": "https://joshrfrench.github.io/ai-growth-ops-service/checkout/mobile-detailers-reactivation-campaign-kit/",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/mobile-detailers-reactivation-campaign-kit/",
+      "saturation_risk": 46,
       "schema_version": "ai_growth_ops_current_product_facts_v1",
       "site": "https://joshrfrench.github.io/ai-growth-ops-service/",
-      "summary": "Downloadable templates and checklists to help photographers make a service booking page clearer and easier to act on.",
-      "target_customer": "Photographers with an existing offer and a simple need around booking page fix.",
-      "updated_at": "2026-05-05T04:44:44.549326Z"
+      "summary": "Downloadable templates and checklists to help mobile detailers reopen conversations with past customers without spammy wording.",
+      "target_customer": "Mobile Detailers with an existing offer and a simple need around past customer reactivation.",
+      "updated_at": "2026-05-05T04:46:11.051196Z"
     },
     {
       "deliverables": [
@@ -697,5 +697,5 @@
     }
   ],
   "schema_version": "ai_growth_ops_product_citation_index_v1",
-  "updated_at": "2026-05-05T04:44:44.550958Z"
+  "updated_at": "2026-05-05T04:46:11.053066Z"
 }
