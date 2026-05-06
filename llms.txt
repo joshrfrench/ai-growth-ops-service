@@ -1,12 +1,12 @@
 # AI Growth Ops Products
 
 Purpose: Public product catalog and checkout request flow for zero-budget AI Growth Ops digital products.
-Current product: Past Customer Reactivation Kit for Mobile Detailers
+Current product: Referral Ask Kit for Local Repair Shops
 Price: $49
-Product URL: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/mobile-detailers-reactivation-campaign-kit/
-Checkout page: https://joshrfrench.github.io/ai-growth-ops-service/checkout/mobile-detailers-reactivation-campaign-kit/
+Product URL: https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-referral-ask-kit/
+Checkout page: https://joshrfrench.github.io/ai-growth-ops-service/checkout/local-repair-shops-referral-ask-kit/
 Checkout status: request-only until a provider payment link is recorded
-Inquiry URL: https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=mobile_detailers_reactivation_campaign_kit
+Inquiry URL: https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=local_repair_shops_referral_ask_kit
 Current product JSON: https://joshrfrench.github.io/ai-growth-ops-service/current-product.json
 Citation endpoint: https://joshrfrench.github.io/ai-growth-ops-service/cite/current-product.json
 Product citation index: https://joshrfrench.github.io/ai-growth-ops-service/cite/products.json

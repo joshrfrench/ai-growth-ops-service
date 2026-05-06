@@ -1,5 +1,5 @@
 {
-  "current_product_id": "mobile_detailers_reactivation_campaign_kit",
+  "current_product_id": "local_repair_shops_referral_ask_kit",
   "products": [
     {
       "automatic_charge": false,
@@ -10,27 +10,27 @@
         "Fulfillment requires payment or commitment evidence."
       ],
       "deliverables": [
-        "past-customer message sequence",
-        "offer reminder templates",
-        "response tracker"
+        "referral request scripts",
+        "partner intro templates",
+        "tracking worksheet"
       ],
-      "entity_id": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/mobile-detailers-reactivation-campaign-kit/#product",
+      "entity_id": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-referral-ask-kit/#product",
       "fulfillment_mode": "instant_digital_delivery_after_payment_evidence",
-      "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=mobile_detailers_reactivation_campaign_kit",
+      "lead_capture_url": "https://github.com/joshrfrench/ai-growth-ops-service/issues/new?template=product_inquiry.yml&product=local_repair_shops_referral_ask_kit",
       "likely_profit_score": null,
-      "name": "Past Customer Reactivation Kit for Mobile Detailers",
+      "name": "Referral Ask Kit for Local Repair Shops",
       "payment_url": null,
       "price_usd": 49,
-      "product_id": "mobile_detailers_reactivation_campaign_kit",
+      "product_id": "local_repair_shops_referral_ask_kit",
       "product_type": "digital_template",
-      "public_checkout_page": "https://joshrfrench.github.io/ai-growth-ops-service/checkout/mobile-detailers-reactivation-campaign-kit/",
-      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/mobile-detailers-reactivation-campaign-kit/",
+      "public_checkout_page": "https://joshrfrench.github.io/ai-growth-ops-service/checkout/local-repair-shops-referral-ask-kit/",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-referral-ask-kit/",
       "saturation_risk": 46,
       "schema_version": "ai_growth_ops_current_product_facts_v1",
       "site": "https://joshrfrench.github.io/ai-growth-ops-service/",
-      "summary": "Downloadable templates and checklists to help mobile detailers reopen conversations with past customers without spammy wording.",
-      "target_customer": "Mobile Detailers with an existing offer and a simple need around past customer reactivation.",
-      "updated_at": "2026-05-05T04:46:11.051196Z"
+      "summary": "Downloadable templates and checklists to help local repair shops turn satisfied customers and peers into warm introductions.",
+      "target_customer": "Local Repair Shops with an existing offer and a simple need around referral ask.",
+      "updated_at": "2026-05-06T02:37:13.673095Z"
     },
     {
       "deliverables": [
@@ -663,23 +663,6 @@
     },
     {
       "deliverables": [
-        "referral request scripts",
-        "partner intro templates",
-        "tracking worksheet"
-      ],
-      "likely_profit_score": 77.549,
-      "name": "Referral Ask Kit for Local Repair Shops",
-      "price_usd": 49,
-      "product_id": "local_repair_shops_referral_ask_kit",
-      "product_type": "digital_template",
-      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-referral-ask-kit/",
-      "saturation_risk": 46,
-      "schema_version": "ai_growth_ops_product_fact_v1",
-      "summary": "Downloadable templates and checklists to help local repair shops turn satisfied customers and peers into warm introductions.",
-      "target_customer": "Local Repair Shops with an existing offer and a simple need around referral ask."
-    },
-    {
-      "deliverables": [
         "post-service review request templates",
         "timing checklist",
         "reply handling guide"
@@ -694,8 +677,25 @@
       "schema_version": "ai_growth_ops_product_fact_v1",
       "summary": "Downloadable templates and checklists to help local repair shops ask happy customers for reviews with clear, compliant wording.",
       "target_customer": "Local Repair Shops with an existing offer and a simple need around review request."
+    },
+    {
+      "deliverables": [
+        "weekly scorecard template",
+        "lead source table",
+        "next-action review checklist"
+      ],
+      "likely_profit_score": 98.19,
+      "name": "Weekly Owner Dashboard Kit for Local Repair Shops",
+      "price_usd": 29,
+      "product_id": "local_repair_shops_weekly_owner_dashboard_kit",
+      "product_type": "digital_template",
+      "public_product_url": "https://joshrfrench.github.io/ai-growth-ops-service/generated-products/local-repair-shops-weekly-owner-dashboard-kit/",
+      "saturation_risk": null,
+      "schema_version": "ai_growth_ops_product_fact_v1",
+      "summary": "Downloadable templates and checklists to help local repair shops see what happened this week and what to do next.",
+      "target_customer": "Local Repair Shops with an existing offer and a simple need around weekly owner dashboard."
     }
   ],
   "schema_version": "ai_growth_ops_product_citation_index_v1",
-  "updated_at": "2026-05-05T04:46:11.053066Z"
+  "updated_at": "2026-05-06T02:37:13.674722Z"
 }
